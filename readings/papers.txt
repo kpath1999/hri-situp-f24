@@ -1,0 +1,17 @@
+- Exercise posture rectifier and tracker using MediaPipe and OpenCV
+URL: https://ieeexplore.ieee.org/abstract/document/10541703
+
+- Physiotherapist perceptions of optimal sitting and standing posture
+URL: https://www.sciencedirect.com/science/article/pii/S2468781218302820
+
+- Is ‘ideal’ sitting posture real?: Measurement of spinal curves in four sitting postures
+URL: https://www.sciencedirect.com/science/article/pii/S1356689X08001136
+
+- Head and shoulder posture affect scapular mechanics and muscle activity in overhead tasks
+URL: https://www.sciencedirect.com/science/article/pii/S1050641109001862
+
+- Postural neck pain: An investigation of habitual sitting posture, perception of ‘good’ posture and cervicothoracic kinaesthesia
+URL: https://www.sciencedirect.com/science/article/pii/S1356689X06001202
+
+- Real-time sitting posture correction system based on highly durable and washable electronic textile pressure sensors
+URL: https://www.sciencedirect.com/science/article/pii/S0924424717312815
